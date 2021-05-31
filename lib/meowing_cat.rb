@@ -10,7 +10,7 @@ def Cat
     @name
   end
   
-  
+attr_accessor 
   
 end 
 
