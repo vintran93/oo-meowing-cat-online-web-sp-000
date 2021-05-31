@@ -2,6 +2,7 @@
 
 def Cat
   
-attr_accessor : 
-
+attr_accessor : meow
+  puts "meow!"
+  
 end 
