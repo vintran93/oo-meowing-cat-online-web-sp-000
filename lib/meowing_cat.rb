@@ -2,7 +2,7 @@
 
 def Cat
   
-  attr_accessor : meow
+  attr_accessor :meow
     puts "meow!"
   end 
   
