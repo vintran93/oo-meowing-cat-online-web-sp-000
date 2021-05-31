@@ -2,10 +2,13 @@
 
 def Cat
   
-amy = Cat.new
-maru.name = "Cat"
+
 
   attr_accessor :meow
     puts "meow!"
   
 end 
+
+
+amy = Cat.new
+maru.name = "Cat"
