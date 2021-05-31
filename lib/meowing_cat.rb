@@ -10,7 +10,11 @@ def Cat
     @name
   end
   
-attr_accessor 
+  def attr_accessor=(name)
+    @name = name
+  end 
+  
+  def attr
   
 end 
 
